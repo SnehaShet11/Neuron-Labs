@@ -1,2 +1,3 @@
 # Personal-portfolio-
-# e-commerce portfolio
+# e-commerce website
+
